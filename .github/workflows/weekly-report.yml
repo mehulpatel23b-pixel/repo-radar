@@ -1,0 +1,27 @@
+name: weekly viral report
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests
+      - name: generate viral report
+        run: PYTHONPATH=src python3 -m repo_radar.cli report --days 7 --limit 25 -o VIRAL.md
+      - name: commit
+        run: |
+          git config user.name "repo-radar-bot"
+          git config user.email "actions@github.com"
+          git add VIRAL.md
+          git diff --cached --quiet || git commit -m "chore: weekly viral report update"
+          git push
