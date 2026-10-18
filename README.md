@@ -1,88 +1,72 @@
 <div align="center">
 
-# 🔐 token-audit
+# 📡 Repo Radar
 
-**Know exactly what your GitHub token can do — without ever printing the secret.**
+**Discover viral GitHub repositories before everyone else.**
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![No Secrets Logged](https://img.shields.io/badge/secrets%20never%20printed-success?style=for-the-badge)](#security)
+[![Made in India](https://img.shields.io/badge/Made%20in-India-FF9933?style=for-the-badge)](https://en.wikipedia.org/wiki/India)
+
+A tiny CLI that finds brand-new repos gaining stars fastest — the ones going **viral right now**.
 
 </div>
 
 ---
 
-Most people have no idea which of their GitHub tokens can delete their repos.
-token-audit inspects any token and reports its **validity, scopes, type, and
-rate limits** — with the secret masked at all times.
+## How it works
+
+GitHub gives every repo a birth date and a star count. Repo Radar searches for
+repos created in the last N days and ranks them by **stars per day of age** —
+a simple velocity score that surfaces what the community is piling onto today.
 
 ## Install
 
 ```bash
-git clone https://github.com/mehulpatel23b-pixel/token-audit
-cd token-audit
+git clone https://github.com/mehulpatel23b-pixel/repo-radar
+cd repo-radar
 pip install -r requirements.txt
 ```
 
 ## Usage
 
 ```bash
-export GITHUB_TOKEN="ghp_..."
-python3 -m token_audit.cli                # full audit
-python3 -m token_audit.cli --shareable    # safe-to-paste public profile
-python3 -m token_audit.cli --token ghp_... # inline token (env var is safer)
+# Top viral repos from the last 7 days, all languages
+python3 -m repo_radar.cli trending
+
+# Viral Python repos only, last 30 days, top 50
+python3 -m repo_radar.cli trending --lang python --days 30 --limit 50
+
+# Generate a markdown report
+python3 -m repo_radar.cli report --lang rust --days 14 -o VIRAL.md
 ```
+
+Optional: set `GITHUB_TOKEN` in your environment for a higher API rate limit.
+
+**No token needed to try it** — the public API works out of the box (60 requests/hr).
+Every user who wants more should create their own free token: GitHub → Settings →
+Developer settings → Personal access tokens. Never share tokens in repos or chats.
 
 ## Sample output
 
 ```
-GitHub Token Audit
-========================================
-Token       : gho_...ibeE
-Valid       : True
-User        : your-login
-Type        : classic PAT
-Scopes      : read:org, read:user, repo, workflow
-Rate core   : 4961/5000
-Rate search : 30/30
-
-  ! WARNING: delete_repo scope present — this token can permanently delete repos.
+  1. someorg/some-repo — ⭐3,735 (Rust)
+     Blazing-fast tool that does the thing everyone wanted
 ```
 
-## What it detects
-
-- Invalid / revoked tokens
-- Classic PAT vs fine-grained PAT / installation tokens
-- `delete_repo` — the scope that can destroy your work
-- A core rate limit of 60/hr (token not actually authenticating)
-- Missing `workflow` scope when `repo` is present
-
-## Sharing access with viewers (read this!)
-
-**Never put a real token in a repo, README, or issue.** Anyone who sees it can act
-as you, and GitHub auto-revokes leaked tokens. If you want people to *use* a tool:
-
-- Public-data tools (like [repo-radar](https://github.com/mehulpatel23b-pixel/repo-radar))
-  run fine with **no token at all** — GitHub's public API just rate-limits harder.
-- Each viewer should create their **own** free token at github.com → Settings →
-  Developer settings → Personal access tokens, and keep it in their environment.
-- For real shared apps, use a backend that holds the token server-side and exposes
-  only results — never ship the key to the browser or the repo.
-
-## Security
-
-- The token is **never printed, logged, or sent anywhere except api.github.com**
-- `--shareable` output contains no token material and no username — safe for bug reports and issues
-- Prefer passing tokens via `GITHUB_TOKEN` env var, never `--token` in shared shells
+This repo also **self-updates**: a GitHub Action runs Repo Radar every week and
+commits the freshest viral list to [VIRAL.md](VIRAL.md). The report writes itself.
 
 ## Project structure
 
 ```
-src/token_audit/
-├── cli.py       # argparse CLI
-├── github.py    # API inspection (secret never leaves this module)
-└── report.py    # human + shareable rendering
-tests/test_report.py
+src/repo_radar/
+├── cli.py          # argparse CLI (trending / report)
+├── github_api.py   # GitHub Search API wrapper
+├── ranking.py      # stars-per-day viral score
+└── report.py       # markdown report generator
+tests/
+└── test_ranking.py
 ```
 
 ## License
@@ -91,4 +75,4 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-<div align="center">Part of the <a href="https://github.com/mehulpatel23b-pixel/osint-lab">OSINT Lab</a> toolkit · Built by <a href="https://github.com/mehulpatel23b-pixel">@mehulpatel23b-pixel</a></div>
+<div align="center">Built by [@mehulpatel23b-pixel](https://github.com/mehulpatel23b-pixel)</div>
