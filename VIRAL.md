@@ -4,30 +4,30 @@ Fastest-growing new repositories on GitHub (all languages, created in the last 7
 
 | # | Repo | ⭐ Stars | 📈 Stars/day | Lang | Description |
 |---|------|---------|--------------|------|-------------|
-| 1 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | 3,735 | 641.5 | C | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the  |
-| 2 | [chenglou/handwired](https://github.com/chenglou/handwired) | 1,684 | 544.9 | TypeScript | Turn your regular JavaScript code into a neural net. |
-| 3 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 1,806 | 536.0 | C# | A free, open source C# framework for making games, or your own game engine. Dire |
-| 4 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 2,660 | 526.5 | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud |
-| 5 | [xscreensaver-official/xscreensaver](https://github.com/xscreensaver-official/xscreensaver) | 742 | 494.5 | - | There is no official XScreenSaver GitHub repository. |
-| 6 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | 2,078 | 461.3 | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch. |
-| 7 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 1,146 | 435.0 | Go | Git designed for AI agents. |
-| 8 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | 1,281 | 403.8 | C++ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMed |
-| 9 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | 1,145 | 318.3 | TypeScript | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析 |
-| 10 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | 1,808 | 311.9 | TypeScript | A design system for AI applications. Material, physical, tactile, technical. |
-| 11 | [anujasid/blender-ai-mcp-addon](https://github.com/anujasid/blender-ai-mcp-addon) | 645 | 287.1 | Python | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
-| 12 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 695 | 239.8 | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc |
-| 13 | [Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) | 602 | 228.2 | Python |  |
-| 14 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | 941 | 196.2 | TypeScript | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from O |
-| 15 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | 1,086 | 184.5 | Python | Daily radar for new AI terms: names of new models, products and repos, caught on |
-| 16 | [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | 822 | 181.9 | TypeScript | Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source |
-| 17 | [AjncSystem/ShadowOfTheColossus-PC](https://github.com/AjncSystem/ShadowOfTheColossus-PC) | 996 | 176.8 | C++ | Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own  |
-| 18 | [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) | 674 | 161.3 | C++ | Overdrive, a PS5 homebrew game store with 1,800+ games. |
-| 19 | [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control) | 563 | 153.7 | Swift | Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs  |
-| 20 | [rohit267/net-merge](https://github.com/rohit267/net-merge) | 821 | 152.8 | Go | Use all your network adapters at once on Windows/Linux/Mac: per-connection load  |
-| 21 | [Zfinix/eleven](https://github.com/Zfinix/eleven) | 677 | 146.9 | TypeScript | Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent read |
-| 22 | [datalab-to/indra](https://github.com/datalab-to/indra) | 593 | 125.6 | Python | Fast CPU OCR: line detection, CTC recognition, reading order, markdown |
-| 23 | [threerocks/sweety-handdraw-video](https://github.com/threerocks/sweety-handdraw-video) | 672 | 118.5 | JavaScript | 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。 |
-| 24 | [overdriveps5/overdrive-releases](https://github.com/overdriveps5/overdrive-releases) | 613 | 114.2 | - | Overdrive releases for jailbroken PS5 |
-| 25 | [yeyuxin777/baoyan-agent-benchmark](https://github.com/yeyuxin777/baoyan-agent-benchmark) | 567 | 97.8 | Python | Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advisi |
+| 1 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 3,334 | 1559.4 | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
+| 2 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 1,305 | 789.8 | C |  |
+| 3 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | 738 | 738.0 | JavaScript | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding age |
+| 4 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 692 | 628.0 | Python | 初中数学知识图谱 + 前置诊断：课标对齐、人教版七–九、333 知识点、自适应诊断 |
+| 5 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,370 | 603.0 | Go | Git designed for AI agents. |
+| 6 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 3,270 | 515.1 | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud |
+| 7 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 1,944 | 416.7 | C# | A free, open source C# framework for making games, or your own game engine. Dire |
+| 8 | [chenglou/handwired](https://github.com/chenglou/handwired) | 1,770 | 403.5 | TypeScript | Turn your regular JavaScript code into a neural net. |
+| 9 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | 2,272 | 391.7 | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch. |
+| 10 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 814 | 345.0 | Python | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, n |
+| 11 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | 1,500 | 335.7 | C++ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMed |
+| 12 | [xscreensaver-official/xscreensaver](https://github.com/xscreensaver-official/xscreensaver) | 921 | 329.4 | - | There is no official XScreenSaver GitHub repository. |
+| 13 | [Noniv/web-ocean](https://github.com/Noniv/web-ocean) | 719 | 289.1 | HTML | Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whit |
+| 14 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 1,138 | 271.4 | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc |
+| 15 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | 1,231 | 251.6 | TypeScript | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析 |
+| 16 | [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) | 843 | 246.1 | Python | Official repository for MOSS-Image, a 5B-parameter base DiT model with high-qual |
+| 17 | [Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) | 912 | 231.8 | Python |  |
+| 18 | [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | 811 | 229.0 | Python | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
+| 19 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | 947 | 155.5 | TypeScript | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from O |
+| 20 | [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) | 843 | 154.0 | C++ | Overdrive, a PS5 homebrew game store with 1,800+ games. |
+| 21 | [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | 829 | 142.6 | TypeScript | Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source |
+| 22 | [Zfinix/eleven](https://github.com/Zfinix/eleven) | 775 | 131.2 | TypeScript | Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent read |
+| 23 | [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control) | 644 | 129.9 | Swift | Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs  |
+| 24 | [datalab-to/indra](https://github.com/datalab-to/indra) | 644 | 107.0 | Python | Fast CPU OCR: line detection, CTC recognition, reading order, markdown |
+| 25 | [seedds/nxnative](https://github.com/seedds/nxnative) | 642 | 102.6 | C | Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an  |
 
 _Generated by [Repo Radar](https://github.com/mehulpatel23b-pixel/repo-radar)._
