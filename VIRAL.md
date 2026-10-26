@@ -4,30 +4,30 @@ Fastest-growing new repositories on GitHub (all languages, created in the last 7
 
 | # | Repo | ⭐ Stars | 📈 Stars/day | Lang | Description |
 |---|------|---------|--------------|------|-------------|
-| 1 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 3,334 | 1559.4 | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
-| 2 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 1,305 | 789.8 | C |  |
-| 3 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | 738 | 738.0 | JavaScript | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding age |
-| 4 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 692 | 628.0 | Python | 初中数学知识图谱 + 前置诊断：课标对齐、人教版七–九、333 知识点、自适应诊断 |
-| 5 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,370 | 603.0 | Go | Git designed for AI agents. |
-| 6 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 3,270 | 515.1 | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud |
-| 7 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 1,944 | 416.7 | C# | A free, open source C# framework for making games, or your own game engine. Dire |
-| 8 | [chenglou/handwired](https://github.com/chenglou/handwired) | 1,770 | 403.5 | TypeScript | Turn your regular JavaScript code into a neural net. |
-| 9 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | 2,272 | 391.7 | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch. |
-| 10 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | 814 | 345.0 | Python | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, n |
-| 11 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | 1,500 | 335.7 | C++ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMed |
-| 12 | [xscreensaver-official/xscreensaver](https://github.com/xscreensaver-official/xscreensaver) | 921 | 329.4 | - | There is no official XScreenSaver GitHub repository. |
-| 13 | [Noniv/web-ocean](https://github.com/Noniv/web-ocean) | 719 | 289.1 | HTML | Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whit |
-| 14 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 1,138 | 271.4 | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc |
-| 15 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | 1,231 | 251.6 | TypeScript | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析 |
-| 16 | [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) | 843 | 246.1 | Python | Official repository for MOSS-Image, a 5B-parameter base DiT model with high-qual |
-| 17 | [Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) | 912 | 231.8 | Python |  |
-| 18 | [LiCinCan/blender-ai-mcp-addon](https://github.com/LiCinCan/blender-ai-mcp-addon) | 811 | 229.0 | Python | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
-| 19 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | 947 | 155.5 | TypeScript | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from O |
-| 20 | [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) | 843 | 154.0 | C++ | Overdrive, a PS5 homebrew game store with 1,800+ games. |
-| 21 | [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | 829 | 142.6 | TypeScript | Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source |
-| 22 | [Zfinix/eleven](https://github.com/Zfinix/eleven) | 775 | 131.2 | TypeScript | Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent read |
-| 23 | [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control) | 644 | 129.9 | Swift | Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs  |
-| 24 | [datalab-to/indra](https://github.com/datalab-to/indra) | 644 | 107.0 | Python | Fast CPU OCR: line detection, CTC recognition, reading order, markdown |
-| 25 | [seedds/nxnative](https://github.com/seedds/nxnative) | 642 | 102.6 | C | Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an  |
+| 1 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 3,479 | 1328.8 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa |
+| 2 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 1,245 | 1090.8 | TypeScript | 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US au |
+| 3 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 5,772 | 944.7 | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X |
+| 4 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 1,458 | 645.0 | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
+| 5 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | 662 | 617.0 | Python | Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, |
+| 6 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | 664 | 531.6 | Rust | Rust Google Drive direct downloader using pinned libaria2 |
+| 7 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | 2,016 | 431.2 | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor |
+| 8 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 2,001 | 419.9 | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux t |
+| 9 | [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | 1,556 | 367.9 | C |  |
+| 10 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,819 | 352.3 | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec |
+| 11 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | 739 | 323.4 | Python | The agent skills I use every day. Works with Claude Code and Codex. |
+| 12 | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 1,855 | 314.5 | Python | 11 Claude skills for day trading: scan thousands of charts, track breaking news, |
+| 13 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | 1,003 | 297.8 | Python | A Claude Code plugin that teaches Claude to write idiomatic, robust Rust |
+| 14 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | 1,464 | 291.2 | Python | A php2shell exploit that requires no modifications to the official version, and  |
+| 15 | [openai/php2shell-checker](https://github.com/openai/php2shell-checker) | 1,407 | 257.1 | JavaScript |  |
+| 16 | [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | 738 | 247.7 | HTML |  |
+| 17 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | 1,283 | 234.0 | Rust | Import .sql files into TypeScript with full type inference and zero codegen. |
+| 18 | [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | 959 | 216.8 | Python | EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Eli |
+| 19 | [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) | 919 | 212.2 | Python | High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619) |
+| 20 | [eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) | 1,014 | 197.3 | Shell | Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619) |
+| 21 | [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer) | 1,025 | 192.6 | Python | Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every |
+| 22 | [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | 1,001 | 169.4 | Python | Official Inference Code of EAGLE-4 |
+| 23 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 677 | 136.4 | Kotlin | A community-built phone app for Clean Your TV: clean up an Android TV from your  |
+| 24 | [NVIDIA/flare-local-inference](https://github.com/NVIDIA/flare-local-inference) | 665 | 115.1 | Python |  |
+| 25 | [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) | 634 | 111.8 | Rust | Stream any torrent, video or audio, and skip to any moment in about a second. Fr |
 
 _Generated by [Repo Radar](https://github.com/mehulpatel23b-pixel/repo-radar)._
