@@ -4,30 +4,30 @@ Fastest-growing new repositories on GitHub (all languages, created in the last 7
 
 | # | Repo | ⭐ Stars | 📈 Stars/day | Lang | Description |
 |---|------|---------|--------------|------|-------------|
-| 1 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 3,479 | 1328.8 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa |
-| 2 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 1,245 | 1090.8 | TypeScript | 词光 · 一词一画，点亮雅思 — 7,298 IELTS words, each with an original illustration, UK/US au |
-| 3 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 5,772 | 944.7 | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X |
-| 4 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 1,458 | 645.0 | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
-| 5 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | 662 | 617.0 | Python | Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, |
-| 6 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | 664 | 531.6 | Rust | Rust Google Drive direct downloader using pinned libaria2 |
-| 7 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | 2,016 | 431.2 | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor |
-| 8 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 2,001 | 419.9 | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux t |
-| 9 | [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | 1,556 | 367.9 | C |  |
-| 10 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,819 | 352.3 | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec |
-| 11 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | 739 | 323.4 | Python | The agent skills I use every day. Works with Claude Code and Codex. |
-| 12 | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 1,855 | 314.5 | Python | 11 Claude skills for day trading: scan thousands of charts, track breaking news, |
-| 13 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | 1,003 | 297.8 | Python | A Claude Code plugin that teaches Claude to write idiomatic, robust Rust |
-| 14 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | 1,464 | 291.2 | Python | A php2shell exploit that requires no modifications to the official version, and  |
-| 15 | [openai/php2shell-checker](https://github.com/openai/php2shell-checker) | 1,407 | 257.1 | JavaScript |  |
-| 16 | [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | 738 | 247.7 | HTML |  |
-| 17 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | 1,283 | 234.0 | Rust | Import .sql files into TypeScript with full type inference and zero codegen. |
-| 18 | [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | 959 | 216.8 | Python | EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Eli |
-| 19 | [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) | 919 | 212.2 | Python | High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619) |
-| 20 | [eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) | 1,014 | 197.3 | Shell | Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619) |
-| 21 | [lyramakesmusic/neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer) | 1,025 | 192.6 | Python | Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every |
-| 22 | [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | 1,001 | 169.4 | Python | Official Inference Code of EAGLE-4 |
-| 23 | [udhaykumarbala/cleanyourtv-app](https://github.com/udhaykumarbala/cleanyourtv-app) | 677 | 136.4 | Kotlin | A community-built phone app for Clean Your TV: clean up an Android TV from your  |
-| 24 | [NVIDIA/flare-local-inference](https://github.com/NVIDIA/flare-local-inference) | 665 | 115.1 | Python |  |
-| 25 | [torrentplayer/torrentplayer](https://github.com/torrentplayer/torrentplayer) | 634 | 111.8 | Rust | Stream any torrent, video or audio, and skip to any moment in about a second. Fr |
+| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 11,708 | 5341.5 | TypeScript | Towards a More Autonomous Agent System |
+| 2 | [heydamir/unslop](https://github.com/heydamir/unslop) | 5,608 | 1424.8 | JavaScript | A Claude skill that turns vibecoded, AI-looking UI into a designed interface |
+| 3 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | 2,638 | 1338.0 | Rust | Craft Anything: understand how any software works, and craft your own. |
+| 4 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | 4,972 | 1248.4 | Kotlin | An on-device AI agent for Android that operates apps and the web to get things d |
+| 5 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 3,251 | 982.3 | JavaScript | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill |
+| 6 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | 3,675 | 903.6 | C | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Wind |
+| 7 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 5,431 | 894.4 | TypeScript | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
+| 8 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 919 | 677.3 | TypeScript | Agent skill: describe your stack in a sentence, get an architecture diagram with |
+| 9 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 972 | 575.0 | Kotlin | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: pe |
+| 10 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | 2,259 | 494.1 | C++ | VERY experimental Nintendo Switch 2 emulator |
+| 11 | [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | 1,336 | 482.4 | PowerShell | Install Linux next to Windows without a USB stick |
+| 12 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | 2,030 | 468.4 | Go | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、 |
+| 13 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 1,339 | 410.2 | Lua | Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua |
+| 14 | [elvarofficial/teardown](https://github.com/elvarofficial/teardown) | 1,137 | 355.9 | JavaScript | A Claude Code skill that turns any machine into a 3D simulator you can take apar |
+| 15 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | 1,431 | 348.1 | Python | RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） |
+| 16 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | 2,078 | 341.4 | JavaScript | See how your app actually fits together. An interactive, plain-English map of yo |
+| 17 | [lexifina/global-law](https://github.com/lexifina/global-law) | 1,659 | 330.2 | HTML | Git for Global Law: the law of every country as one git history, each country's  |
+| 18 | [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) | 1,725 | 301.1 | - | Say cheese! Star this repo and your profile picture gets printed out on a receip |
+| 19 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | 1,419 | 262.7 | HTML | Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongji |
+| 20 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 1,282 | 206.1 | TypeScript | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. |
+| 21 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | 847 | 195.8 | JavaScript | A Claude Code skill that reverse-engineers any animation frame by frame, then pr |
+| 22 | [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) | 1,036 | 195.6 | JavaScript | RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × |
+| 23 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | 830 | 159.1 | JavaScript | An AI live-stream host that runs on one server: voice, face, chat, memory, posts |
+| 24 | [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) | 746 | 129.1 | Kotlin | 免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · |
+| 25 | [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | 764 | 126.6 | TypeScript | Fast, accurate OCR with correctness assessment. |
 
 _Generated by [Repo Radar](https://github.com/mehulpatel23b-pixel/repo-radar)._
