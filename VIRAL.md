@@ -4,30 +4,30 @@ Fastest-growing new repositories on GitHub (all languages, created in the last 7
 
 | # | Repo | ⭐ Stars | 📈 Stars/day | Lang | Description |
 |---|------|---------|--------------|------|-------------|
-| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 11,708 | 5341.5 | TypeScript | Towards a More Autonomous Agent System |
-| 2 | [heydamir/unslop](https://github.com/heydamir/unslop) | 5,608 | 1424.8 | JavaScript | A Claude skill that turns vibecoded, AI-looking UI into a designed interface |
-| 3 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | 2,638 | 1338.0 | Rust | Craft Anything: understand how any software works, and craft your own. |
-| 4 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | 4,972 | 1248.4 | Kotlin | An on-device AI agent for Android that operates apps and the web to get things d |
-| 5 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 3,251 | 982.3 | JavaScript | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill |
-| 6 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | 3,675 | 903.6 | C | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Wind |
-| 7 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 5,431 | 894.4 | TypeScript | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
-| 8 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | 919 | 677.3 | TypeScript | Agent skill: describe your stack in a sentence, get an architecture diagram with |
-| 9 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | 972 | 575.0 | Kotlin | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: pe |
-| 10 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | 2,259 | 494.1 | C++ | VERY experimental Nintendo Switch 2 emulator |
-| 11 | [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | 1,336 | 482.4 | PowerShell | Install Linux next to Windows without a USB stick |
-| 12 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | 2,030 | 468.4 | Go | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、 |
-| 13 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | 1,339 | 410.2 | Lua | Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua |
-| 14 | [elvarofficial/teardown](https://github.com/elvarofficial/teardown) | 1,137 | 355.9 | JavaScript | A Claude Code skill that turns any machine into a 3D simulator you can take apar |
-| 15 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | 1,431 | 348.1 | Python | RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） |
-| 16 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | 2,078 | 341.4 | JavaScript | See how your app actually fits together. An interactive, plain-English map of yo |
-| 17 | [lexifina/global-law](https://github.com/lexifina/global-law) | 1,659 | 330.2 | HTML | Git for Global Law: the law of every country as one git history, each country's  |
-| 18 | [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) | 1,725 | 301.1 | - | Say cheese! Star this repo and your profile picture gets printed out on a receip |
-| 19 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | 1,419 | 262.7 | HTML | Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongji |
-| 20 | [modelflare-ai/AnyModelBot](https://github.com/modelflare-ai/AnyModelBot) | 1,282 | 206.1 | TypeScript | 🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. |
-| 21 | [NiazMorshed2007/reanimate](https://github.com/NiazMorshed2007/reanimate) | 847 | 195.8 | JavaScript | A Claude Code skill that reverse-engineers any animation frame by frame, then pr |
-| 22 | [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) | 1,036 | 195.6 | JavaScript | RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × |
-| 23 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | 830 | 159.1 | JavaScript | An AI live-stream host that runs on one server: voice, face, chat, memory, posts |
-| 24 | [jackwener/DSH-Android](https://github.com/jackwener/DSH-Android) | 746 | 129.1 | Kotlin | 免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · |
-| 25 | [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | 764 | 126.6 | TypeScript | Fast, accurate OCR with correctness assessment. |
+| 1 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 1,480 | 1082.0 | C# | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten  |
+| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | 4,052 | 988.9 | C++ | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 |
+| 3 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 1,969 | 897.8 | C |  |
+| 4 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | 5,162 | 856.9 | TypeScript | YellowFruit third-party client |
+| 5 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | 778 | 778.0 | Swift | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese |
+| 6 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 4,252 | 677.5 | TypeScript | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
+| 7 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 1,906 | 592.6 | JavaScript |  |
+| 8 | [Th0rgal/satmux](https://github.com/Th0rgal/satmux) | 983 | 507.4 | Python | Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT |
+| 9 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | 1,327 | 456.5 | Go | Let AI agents use your phone, with you in the loop. |
+| 10 | [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) | 1,027 | 383.6 | C | Ocarina of Time running natively on Windows, no emulator. Built on your PC from  |
+| 11 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 2,476 | 382.7 | Swift | Entire MacOS running in your terminal. |
+| 12 | [voyager-so/vork](https://github.com/voyager-so/vork) | 1,245 | 339.4 | Rust | Headless 3D and VFX engine for agents. Research preview. |
+| 13 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | 1,331 | 302.0 | Python |  |
+| 14 | [IainKay/ram-altman](https://github.com/IainKay/ram-altman) | 1,167 | 296.8 | Shell | Monitors your RAM and reports any "quite terrible" unused capacity directly to t |
+| 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | 1,825 | 294.9 | Python | Films made with code. Short films, long YouTube videos, ads, explainers and musi |
+| 16 | [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth) | 997 | 261.6 | Rust | the ultimate vocal synthesizer - sing, speak, beatbox, and more |
+| 17 | [livliv-dev/player](https://github.com/livliv-dev/player) | 1,383 | 253.0 | TypeScript | A lightweight 2.5D character player for the web, with lip sync and webcam face t |
+| 18 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 1,572 | 251.1 | HTML | 3D modeling in Python, built for LLMs. |
+| 19 | [WoYun520/gif-factory](https://github.com/WoYun520/gif-factory) | 1,004 | 226.2 | Python | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 |
+| 20 | [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | 1,283 | 217.1 | - | Agent skills |
+| 21 | [CzJam/gjgjxweb](https://github.com/CzJam/gjgjxweb) | 1,417 | 217.1 | HTML | 《搞机工具箱》Web移植版 |
+| 22 | [egoist/mygo-music](https://github.com/egoist/mygo-music) | 1,085 | 214.8 | Go | A native music player you extend with plugins |
+| 23 | [shanselman/gputaskman](https://github.com/shanselman/gputaskman) | 1,368 | 208.0 | Python | A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity,  |
+| 24 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | 686 | 172.2 | Swift | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, n |
+| 25 | [sassiestrhihno/boxshelf-beta](https://github.com/sassiestrhihno/boxshelf-beta) | 678 | 153.8 | - | Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a T |
 
 _Generated by [Repo Radar](https://github.com/mehulpatel23b-pixel/repo-radar)._
