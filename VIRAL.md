@@ -4,30 +4,30 @@ Fastest-growing new repositories on GitHub (all languages, created in the last 7
 
 | # | Repo | ⭐ Stars | 📈 Stars/day | Lang | Description |
 |---|------|---------|--------------|------|-------------|
-| 1 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 1,480 | 1082.0 | C# | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten  |
-| 2 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | 4,052 | 988.9 | C++ | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 |
-| 3 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 1,969 | 897.8 | C |  |
-| 4 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | 5,162 | 856.9 | TypeScript | YellowFruit third-party client |
-| 5 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | 778 | 778.0 | Swift | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese |
-| 6 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 4,252 | 677.5 | TypeScript | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
-| 7 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 1,906 | 592.6 | JavaScript |  |
-| 8 | [Th0rgal/satmux](https://github.com/Th0rgal/satmux) | 983 | 507.4 | Python | Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT |
-| 9 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | 1,327 | 456.5 | Go | Let AI agents use your phone, with you in the loop. |
-| 10 | [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) | 1,027 | 383.6 | C | Ocarina of Time running natively on Windows, no emulator. Built on your PC from  |
-| 11 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 2,476 | 382.7 | Swift | Entire MacOS running in your terminal. |
-| 12 | [voyager-so/vork](https://github.com/voyager-so/vork) | 1,245 | 339.4 | Rust | Headless 3D and VFX engine for agents. Research preview. |
-| 13 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | 1,331 | 302.0 | Python |  |
-| 14 | [IainKay/ram-altman](https://github.com/IainKay/ram-altman) | 1,167 | 296.8 | Shell | Monitors your RAM and reports any "quite terrible" unused capacity directly to t |
-| 15 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | 1,825 | 294.9 | Python | Films made with code. Short films, long YouTube videos, ads, explainers and musi |
-| 16 | [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth) | 997 | 261.6 | Rust | the ultimate vocal synthesizer - sing, speak, beatbox, and more |
-| 17 | [livliv-dev/player](https://github.com/livliv-dev/player) | 1,383 | 253.0 | TypeScript | A lightweight 2.5D character player for the web, with lip sync and webcam face t |
-| 18 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 1,572 | 251.1 | HTML | 3D modeling in Python, built for LLMs. |
-| 19 | [WoYun520/gif-factory](https://github.com/WoYun520/gif-factory) | 1,004 | 226.2 | Python | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 |
-| 20 | [janestreet/agent_skills](https://github.com/janestreet/agent_skills) | 1,283 | 217.1 | - | Agent skills |
-| 21 | [CzJam/gjgjxweb](https://github.com/CzJam/gjgjxweb) | 1,417 | 217.1 | HTML | 《搞机工具箱》Web移植版 |
-| 22 | [egoist/mygo-music](https://github.com/egoist/mygo-music) | 1,085 | 214.8 | Go | A native music player you extend with plugins |
-| 23 | [shanselman/gputaskman](https://github.com/shanselman/gputaskman) | 1,368 | 208.0 | Python | A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity,  |
-| 24 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | 686 | 172.2 | Swift | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, n |
-| 25 | [sassiestrhihno/boxshelf-beta](https://github.com/sassiestrhihno/boxshelf-beta) | 678 | 153.8 | - | Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a T |
+| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 3,883 | 912.5 | TypeScript | Chat Demo |
+| 2 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | 1,357 | 535.2 | Python | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
+| 3 | [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | 1,938 | 485.9 | - | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
+| 4 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | 2,386 | 441.1 | C++ | Apex Neural Rendering (ANR) by Apex Compute |
+| 5 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | 1,430 | 356.4 | JavaScript | A dreamy underwater world you can swim through in your browser: swaying kelp for |
+| 6 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | 2,179 | 336.0 | Swift | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） \| Bootloop-safe iOS /  |
+| 7 | [yetanotherbrowser/yab](https://github.com/yetanotherbrowser/yab) | 532 | 333.2 | Swift | Yab, yet another browser: a fast native macOS browser with an iPhone and Android |
+| 8 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 1,784 | 309.7 | TypeScript | Private AI meeting notes that stay on your computer. A free, open-source alterna |
+| 9 | [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca) | 525 | 272.6 | Python | A 4.5M-parameter two-voice English text-to-speech model, trained from scratch |
+| 10 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | 1,644 | 267.5 | Python | Humanoid whole-body motion tracking with one differentiable world model. |
+| 11 | [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) | 1,035 | 245.6 | TypeScript | 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送 |
+| 12 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 758 | 244.5 | TypeScript | The open-source Dynamic Island for React, installed with shadcn. |
+| 13 | [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut) | 537 | 235.9 | Python | AI clipping for long videos and live streams. Self-hosted, bring your own AI key |
+| 14 | [Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner) | 1,256 | 235.8 | Kotlin | 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块 |
+| 15 | [AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork) | 731 | 176.5 | TypeScript | A cross-platform Tauri 2 interface and interaction practice project |
+| 16 | [faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot) | 540 | 157.8 | Kotlin | Experimental Android 3D scanning and point-cloud viewer |
+| 17 | [JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation) | 891 | 143.7 | TypeScript | A Claude skill and TypeScript library for animated line-art SVG components: ink  |
+| 18 | [linknimiball1974/ai-texture-forge](https://github.com/linknimiball1974/ai-texture-forge) | 682 | 142.2 | - | An AI-powered texture forge for Blender — turn text prompts into seamless PBR ma |
+| 19 | [credoksopho1984/blender-ai-copilot-studio](https://github.com/credoksopho1984/blender-ai-copilot-studio) | 514 | 135.9 | - | An AI copilot and MCP server for Blender that turns plain-language briefs into s |
+| 20 | [tiobeharxi1987/blender-ai-copilot-flow](https://github.com/tiobeharxi1987/blender-ai-copilot-flow) | 512 | 135.6 | - | A controlled AI workflow for Blender: every copilot edit is a supervised tool ca |
+| 21 | [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) | 512 | 135.3 | - | Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP |
+| 22 | [zovulrira1974/blender-ai-copilot-assets](https://github.com/zovulrira1974/blender-ai-copilot-assets) | 508 | 134.6 | - | An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizz |
+| 23 | [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) | 614 | 134.5 | TypeScript | Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your  |
+| 24 | [failsafe-security/artex](https://github.com/failsafe-security/artex) | 757 | 124.7 | Go | Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15) |
+| 25 | [makepad/relax](https://github.com/makepad/relax) | 575 | 120.0 | Rust | Relax Rust JIT |
 
 _Generated by [Repo Radar](https://github.com/mehulpatel23b-pixel/repo-radar)._
