@@ -4,30 +4,30 @@ Fastest-growing new repositories on GitHub (all languages, created in the last 7
 
 | # | Repo | ⭐ Stars | 📈 Stars/day | Lang | Description |
 |---|------|---------|--------------|------|-------------|
-| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 3,883 | 912.5 | TypeScript | Chat Demo |
-| 2 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | 1,357 | 535.2 | Python | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
-| 3 | [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | 1,938 | 485.9 | - | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
-| 4 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | 2,386 | 441.1 | C++ | Apex Neural Rendering (ANR) by Apex Compute |
-| 5 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | 1,430 | 356.4 | JavaScript | A dreamy underwater world you can swim through in your browser: swaying kelp for |
-| 6 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | 2,179 | 336.0 | Swift | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） \| Bootloop-safe iOS /  |
-| 7 | [yetanotherbrowser/yab](https://github.com/yetanotherbrowser/yab) | 532 | 333.2 | Swift | Yab, yet another browser: a fast native macOS browser with an iPhone and Android |
-| 8 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 1,784 | 309.7 | TypeScript | Private AI meeting notes that stay on your computer. A free, open-source alterna |
-| 9 | [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca) | 525 | 272.6 | Python | A 4.5M-parameter two-voice English text-to-speech model, trained from scratch |
-| 10 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | 1,644 | 267.5 | Python | Humanoid whole-body motion tracking with one differentiable world model. |
-| 11 | [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) | 1,035 | 245.6 | TypeScript | 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送 |
-| 12 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | 758 | 244.5 | TypeScript | The open-source Dynamic Island for React, installed with shadcn. |
-| 13 | [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut) | 537 | 235.9 | Python | AI clipping for long videos and live streams. Self-hosted, bring your own AI key |
-| 14 | [Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner) | 1,256 | 235.8 | Kotlin | 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块 |
-| 15 | [AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork) | 731 | 176.5 | TypeScript | A cross-platform Tauri 2 interface and interaction practice project |
-| 16 | [faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot) | 540 | 157.8 | Kotlin | Experimental Android 3D scanning and point-cloud viewer |
-| 17 | [JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation) | 891 | 143.7 | TypeScript | A Claude skill and TypeScript library for animated line-art SVG components: ink  |
-| 18 | [linknimiball1974/ai-texture-forge](https://github.com/linknimiball1974/ai-texture-forge) | 682 | 142.2 | - | An AI-powered texture forge for Blender — turn text prompts into seamless PBR ma |
-| 19 | [credoksopho1984/blender-ai-copilot-studio](https://github.com/credoksopho1984/blender-ai-copilot-studio) | 514 | 135.9 | - | An AI copilot and MCP server for Blender that turns plain-language briefs into s |
-| 20 | [tiobeharxi1987/blender-ai-copilot-flow](https://github.com/tiobeharxi1987/blender-ai-copilot-flow) | 512 | 135.6 | - | A controlled AI workflow for Blender: every copilot edit is a supervised tool ca |
-| 21 | [racdeufindurch198812/Blender-AI-MCP-Studio](https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio) | 512 | 135.3 | - | Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP |
-| 22 | [zovulrira1974/blender-ai-copilot-assets](https://github.com/zovulrira1974/blender-ai-copilot-assets) | 508 | 134.6 | - | An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizz |
-| 23 | [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) | 614 | 134.5 | TypeScript | Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your  |
-| 24 | [failsafe-security/artex](https://github.com/failsafe-security/artex) | 757 | 124.7 | Go | Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15) |
-| 25 | [makepad/relax](https://github.com/makepad/relax) | 575 | 120.0 | Rust | Relax Rust JIT |
+| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | 23,884 | 8345.7 | Python | Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6 |
+| 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | 2,938 | 1406.6 | Rust | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ru |
+| 3 | [os6/nospeaker](https://github.com/os6/nospeaker) | 1,142 | 954.8 | Swift | make your macbook's trackpad talk using its haptic motor |
+| 4 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | 2,763 | 676.1 | - | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
+| 5 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | 1,553 | 657.8 | Rust | Progress notes for running Xbox Series X\|S builds on PC (TomBox + rage9) |
+| 6 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | 2,272 | 530.5 | Python | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipp |
+| 7 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | 1,431 | 483.2 | Python | Static recompilation research for Xbox Series X\|S software on x64 Windows, with |
+| 8 | [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux) | 1,409 | 430.8 | Objective-C++ | XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux) |
+| 9 | [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) | 788 | 255.5 | Lean | Independent Comparator setup for the Lean formalization of the Riemann Hypothesi |
+| 10 | [Lemxy/WinRust](https://github.com/Lemxy/WinRust) | 1,337 | 219.3 | Rust | Windows shell replacement in Rust: taskbar, file manager, NTFS search, task mana |
+| 11 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | 489 | 202.7 | TypeScript | Open-source, local-first AI agent team for your desktop: multi-agent group chats |
+| 12 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | 611 | 197.5 | HTML | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works  |
+| 13 | [realdody/americas-recomp](https://github.com/realdody/americas-recomp) | 576 | 188.7 | - |  |
+| 14 | [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill) | 493 | 187.5 | Python | Distill a good Claude Code / Codex session into a skill an open-weight model can |
+| 15 | [ItsNotRexed/Hookshot](https://github.com/ItsNotRexed/Hookshot) | 515 | 179.9 | C++ | Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake |
+| 16 | [CocoSgt/riemann-hypothesis-lean](https://github.com/CocoSgt/riemann-hypothesis-lean) | 540 | 175.6 | Lean | Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). Al |
+| 17 | [INK-Q/agy-fast](https://github.com/INK-Q/agy-fast) | 760 | 169.2 | TypeScript | Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cu |
+| 18 | [MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock) | 698 | 167.2 | - | FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability |
+| 19 | [ivall/xcl](https://github.com/ivall/xcl) | 479 | 167.2 | Rust | Xbox Series compatibility layer for Windows - runs console game code natively, r |
+| 20 | [nataphong-lab/Open-Source-Face-Recognition-Ultimate](https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate) | 685 | 161.0 | Python | Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, F |
+| 21 | [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) | 534 | 144.5 | Python | Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI,  |
+| 22 | [duwqijlk/google-trial-tool](https://github.com/duwqijlk/google-trial-tool) | 444 | 104.8 | JavaScript |  |
+| 23 | [0xkaka/homeport](https://github.com/0xkaka/homeport) | 630 | 97.5 | HTML |  |
+| 24 | [replit/datacat](https://github.com/replit/datacat) | 589 | 89.5 | TypeScript | Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores  |
+| 25 | [nkjDSLcvanv/antigravity-codex-theme](https://github.com/nkjDSLcvanv/antigravity-codex-theme) | 465 | 73.3 | JavaScript | Google Antigravity 桌面端增强插件：Codex 昼夜双主题、原生设置页与一键热更新、1,900+ 中文汉化、四态状态灯与实时用量监控（含旁路提 |
 
 _Generated by [Repo Radar](https://github.com/mehulpatel23b-pixel/repo-radar)._
